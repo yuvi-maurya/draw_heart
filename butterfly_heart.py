@@ -5,7 +5,7 @@ import sys
 
 pygame.init()
 
-WIDTH, HEIGHT = 800, 900
+WIDTH, HEIGHT = 1000, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Love.exe")
 clock = pygame.time.Clock()
